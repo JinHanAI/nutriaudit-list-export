@@ -18,6 +18,10 @@ python3 -m http.server 8080 --bind 127.0.0.1
 
 Open http://127.0.0.1:8080/index.html. Select **Load example** or enter your own labels. Calculation, CSV and print stay in the browser.
 
+## Mobile demo
+
+<img src="docs/demo-mobile.png" width="390" alt="Mobile browser view with synthetic supplement label inputs">
+
 ## Worked example
 
 Two synthetic products and a note produce one local CSV list. Missing information is not invented.

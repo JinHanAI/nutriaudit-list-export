@@ -1,3 +1,10 @@
+# 2026-10-02 — Public delivery verified
+
+- Independent local static-browser acceptance: 142/142 checks across the three projects, seven phone/tablet viewport simulations, four tasks, failure recovery, fixed source links and privacy. These are simulated devices and synthetic inputs.
+- Each project: 10/10 tests; exact initial SHA passed both admission and tool CI; PUBLIC status and anonymous GitHub HTTP 200 verified.
+- Added a synthetic mobile demo screenshot. No personal labels, credentials, commercial code or telemetry backend included.
+- Main-site source deployment and naturally observed traffic are separate acceptance stages; publication does not prove indexing, citations or growth.
+
 # 2026-10-02 — 聚焦工具实现
 
 - 正式准入由独立复核签署 PASS 后受控创建；复用公开 MIT 核，未复制商用源码或用户数据。
