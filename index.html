@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="description" content="Make a supplement list for your next appointment. Local, open-source label task; no login or upload.">
+  <title>Supplement List Export — CSV & Print</title>
+  <link rel="stylesheet" href="theme.css">
+  <link rel="stylesheet" href="demo.css">
+</head>
+<body>
+<main>
+  <header><p id="eyebrow">NutriAudit · Open-source label tools</p><h1 id="title">Supplement List Export — CSV & Print</h1><p id="intro">Make a supplement list for your next appointment. No account needed.</p><button id="language" type="button">中文</button></header>
+  <p id="privacy">Calculations and notes stay on this page. This is not a safety or suitability finding.</p>
+  <nav id="tasks" aria-label="Label tasks"></nav>
+  <section class="panel">
+    <div class="controls"><button id="own" type="button">Use my labels</button><button id="example" type="button">Load example</button><span id="mode"></span></div>
+    <h2 id="task-title"></h2><p id="description"></p>
+    <form id="form"><div id="fields"></div><button id="calculate" type="submit" class="primary">Show result</button></form>
+    <p id="error" role="alert" hidden></p>
+    <section id="result" aria-label="Task result" aria-live="polite" tabindex="-1" hidden></section>
+    <section id="print-list" aria-label="Printable list"></section>
+  </section>
+  <footer><a id="continue" href="https://www.nutriaudit.com/scan?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=list_export&amp;utm_content=footer" target="_blank" rel="noopener noreferrer">Start my supplement stack audit</a><p id="footer-note">The link carries no labels or notes. Add actual labels on NutriAudit; start with a free preview. The full report is paid.</p></footer>
+  <noscript>Enable JavaScript to run the label calculations locally in your browser.</noscript>
+</main>
+<script type="module" src="demo.mjs"></script>
+</body>
+</html>

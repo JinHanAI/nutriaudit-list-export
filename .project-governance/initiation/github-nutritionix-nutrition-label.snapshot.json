@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "collected_at": "2026-10-01T16:15:59.008864+00:00",
+  "repository_url": "https://github.com/nutritionix/nutrition-label",
+  "api_url": "https://api.github.com/repos/nutritionix/nutrition-label",
+  "repository": {
+    "full_name": "nutritionix/nutrition-label",
+    "html_url": "https://github.com/nutritionix/nutrition-label",
+    "archived": false,
+    "disabled": false,
+    "fork": false,
+    "default_branch": "master",
+    "pushed_at": "2024-06-03T18:46:07Z",
+    "updated_at": "2026-07-27T07:11:01Z",
+    "stargazers_count": 191,
+    "forks_count": 68,
+    "open_issues_count": 7,
+    "license_spdx": "MIT"
+  },
+  "default_branch_commit": {
+    "sha": "cd1ca81c2412529b376f0a77aa96edd442fcdde8",
+    "html_url": "https://github.com/nutritionix/nutrition-label/commit/cd1ca81c2412529b376f0a77aa96edd442fcdde8",
+    "committed_at": "2023-10-21T01:06:03Z"
+  },
+  "latest_release": {
+    "tag_name": "v11.0.13",
+    "published_at": "2023-10-21T01:10:58Z",
+    "html_url": "https://github.com/nutritionix/nutrition-label/releases/tag/v11.0.13"
+  }
+}

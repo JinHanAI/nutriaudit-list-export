@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "collected_at": "2026-10-01T16:23:11.358175+00:00",
+  "repository_url": "https://github.com/ilodezis/stack",
+  "api_url": "https://api.github.com/repos/ilodezis/stack",
+  "repository": {
+    "full_name": "ilodezis/stack",
+    "html_url": "https://github.com/ilodezis/stack",
+    "archived": false,
+    "disabled": false,
+    "fork": false,
+    "default_branch": "main",
+    "pushed_at": "2026-06-17T18:42:06Z",
+    "updated_at": "2026-06-17T18:42:11Z",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "license_spdx": "UNKNOWN"
+  },
+  "default_branch_commit": {
+    "sha": "583b40c9a767ed5de800d1ec726359b4783f1dc5",
+    "html_url": "https://github.com/ilodezis/stack/commit/583b40c9a767ed5de800d1ec726359b4783f1dc5",
+    "committed_at": "2026-06-17T18:42:03Z"
+  },
+  "latest_release": null
+}

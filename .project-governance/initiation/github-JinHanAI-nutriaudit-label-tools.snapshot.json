@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "collected_at": "2026-10-02T01:39:41.066413+00:00",
+  "repository_url": "https://github.com/JinHanAI/nutriaudit-label-tools",
+  "api_url": "https://api.github.com/repos/JinHanAI/nutriaudit-label-tools",
+  "repository": {
+    "full_name": "JinHanAI/nutriaudit-label-tools",
+    "html_url": "https://github.com/JinHanAI/nutriaudit-label-tools",
+    "archived": false,
+    "disabled": false,
+    "fork": false,
+    "default_branch": "main",
+    "pushed_at": "2026-10-02T00:15:38Z",
+    "updated_at": "2026-10-02T00:15:43Z",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "license_spdx": "MIT"
+  },
+  "default_branch_commit": {
+    "sha": "ec9615a2212c3cce01c98e2fdf5dbba85dab1f7f",
+    "html_url": "https://github.com/JinHanAI/nutriaudit-label-tools/commit/ec9615a2212c3cce01c98e2fdf5dbba85dab1f7f",
+    "committed_at": "2026-10-02T00:15:33Z"
+  },
+  "latest_release": null
+}

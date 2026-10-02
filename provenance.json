@@ -1,0 +1,15 @@
+{
+  "upstream": "https://github.com/JinHanAI/nutriaudit-label-tools",
+  "commit": "ec9615a2212c3cce01c98e2fdf5dbba85dab1f7f",
+  "license": "MIT",
+  "reusedFiles": {
+    "label-tools.mjs": "9a428daccf6eb57e07506d3aecb98c5fd8a704db0ce18aab9bc52e04648da663",
+    "label-task-results.mjs": "507d29669e61f18efddf20c3dbc134998b6b959b9372e3a771d07155ac423b13",
+    "theme.css": "e1cc374d6cc16f9132374febfeb998d323b496eef5d070bdf51884190bf536cf"
+  },
+  "changes": "Focused static demo, task-specific FAQ and fixed attribution links. No new medical algorithm.",
+  "tasks": [
+    "inventory"
+  ],
+  "campaign": "list_export"
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "collected_at": "2026-10-01T16:15:59.799252+00:00",
+  "repository_url": "https://github.com/josdejong/mathjs",
+  "api_url": "https://api.github.com/repos/josdejong/mathjs",
+  "repository": {
+    "full_name": "josdejong/mathjs",
+    "html_url": "https://github.com/josdejong/mathjs",
+    "archived": false,
+    "disabled": false,
+    "fork": false,
+    "default_branch": "develop",
+    "pushed_at": "2026-09-13T14:21:56Z",
+    "updated_at": "2026-09-30T13:55:59Z",
+    "stargazers_count": 15079,
+    "forks_count": 1321,
+    "open_issues_count": 218,
+    "license_spdx": "Apache-2.0"
+  },
+  "default_branch_commit": {
+    "sha": "8d214e050a0acb9f132405d55a96b683fa7b6324",
+    "html_url": "https://github.com/josdejong/mathjs/commit/8d214e050a0acb9f132405d55a96b683fa7b6324",
+    "committed_at": "2026-08-10T10:43:23Z"
+  },
+  "latest_release": null
+}

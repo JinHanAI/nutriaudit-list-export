@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "collected_at": "2026-10-01T16:17:29.172998+00:00",
+  "repository_url": "https://github.com/hunterthompson025/SupplementTracker",
+  "api_url": "https://api.github.com/repos/hunterthompson025/SupplementTracker",
+  "repository": {
+    "full_name": "hunterthompson025/SupplementTracker",
+    "html_url": "https://github.com/hunterthompson025/SupplementTracker",
+    "archived": false,
+    "disabled": false,
+    "fork": false,
+    "default_branch": "main",
+    "pushed_at": "2026-08-07T21:34:33Z",
+    "updated_at": "2026-08-07T21:34:38Z",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "license_spdx": "MIT"
+  },
+  "default_branch_commit": {
+    "sha": "e87197869833669e91285eb77a7bd49b961bcd79",
+    "html_url": "https://github.com/hunterthompson025/SupplementTracker/commit/e87197869833669e91285eb77a7bd49b961bcd79",
+    "committed_at": "2026-08-07T21:34:33Z"
+  },
+  "latest_release": null
+}

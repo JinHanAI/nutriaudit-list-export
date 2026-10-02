@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "collected_at": "2026-10-01T16:23:11.618127+00:00",
+  "repository_url": "https://github.com/McJack3d/PJT_kleerer.io",
+  "api_url": "https://api.github.com/repos/McJack3d/PJT_kleerer.io",
+  "repository": {
+    "full_name": "McJack3d/PJT_kleerer.io",
+    "html_url": "https://github.com/McJack3d/PJT_kleerer.io",
+    "archived": false,
+    "disabled": false,
+    "fork": false,
+    "default_branch": "main",
+    "pushed_at": "2026-09-18T16:57:12Z",
+    "updated_at": "2026-09-30T13:15:38Z",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "license_spdx": "AGPL-3.0"
+  },
+  "default_branch_commit": {
+    "sha": "fcfaffc95658c90e4563e0b36c148b44f50cad7c",
+    "html_url": "https://github.com/McJack3d/PJT_kleerer.io/commit/fcfaffc95658c90e4563e0b36c148b44f50cad7c",
+    "committed_at": "2026-09-18T16:57:10Z"
+  },
+  "latest_release": null
+}

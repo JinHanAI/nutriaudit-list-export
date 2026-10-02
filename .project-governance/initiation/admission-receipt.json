@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "admitted_at": "2026-10-02T09:55:43+08:00",
+  "project_name": "NutriAuditListExport（保健品清单导出）",
+  "decision_outcome": "integrate",
+  "files": {
+    ".github/workflows/project-initiation-gate.yml": "ac99fe32f5c96195eb9fe88cbda89b5436801131e54eea48a157d4acb35b66ee",
+    ".project-governance/initiation/github-JinHanAI-nutriaudit-label-tools.snapshot.json": "ec3ae6b37aa2f34a0b9805d958fe91071c377b60980ac9b60cd624d0653c663e",
+    ".project-governance/initiation/github-McJack3d-PJT_kleerer.io.snapshot.json": "b303abc36e16a226f97c90795132eab2f269f3d3fc871db91bbef096fd1a9b9b",
+    ".project-governance/initiation/github-hunterthompson025-SupplementTracker.snapshot.json": "bfbdc6d7482c2eabbf6800f56a813e3cfda5d8fac8ce5d917f1450f6b4849f71",
+    ".project-governance/initiation/github-ilodezis-stack.snapshot.json": "190ecacaf28502d51b01db820560ef89eb325f4c57f8c374ab27f3e716fed9e5",
+    ".project-governance/initiation/github-josdejong-mathjs.snapshot.json": "4dbd54aeb9e4b9557a3c973431b163c9926f57e7fa6c8b075a5ae10f74f6195e",
+    ".project-governance/initiation/github-nutritionix-nutrition-label.snapshot.json": "3644732ee72013a2d956c68eef303cad6e68b5ceb22846f85ac0d51d96885bf4",
+    ".project-governance/initiation/github-peterthepeter-groly.snapshot.json": "4e3f5cfc09d50047b65d735f6b85f2ff05c601eec1d7257b6c66f100d3fafd86",
+    ".project-governance/initiation/github-search-focused.snapshot.json": "e05cdd1f57d7f821337af89ad02aa5f86df6294d9d48a97d1d235abe8f26574d",
+    ".project-governance/initiation/github-wger-project-wger.snapshot.json": "46952d664c10cd37483996b855bdfe46cd8e658309b1c71a0bf62dff27e8fd4c",
+    ".project-governance/initiation/manifest.json": "5617026614d1c79daf0cc050af0eb2d002e3316c7e12a01d60b5e24cd2a350c7",
+    ".project-governance/initiation/manifest.schema.json": "92e241b6a6e69ab39a0e3d5d6894e707b4be7f4d58b2f49b219b07ceb60e56fe",
+    ".project-governance/initiation/pre-project-survey.md": "fc3972159d27ebf61279e18bab3750b7051fb21fc20aac22403a15102e9d9b36",
+    ".project-governance/initiation/validate_manifest.py": "2d7101e63e8aa849e8411d3b3e61dd6fbc202242978994dd3d3b11bf78e04d9c",
+    ".project-governance/initiation/verify_bundle.py": "b68eedf73c36bbfb12b51f232180d74a6a4ff5b6e0c16e84f9de629d4815ecb0"
+  }
+}
